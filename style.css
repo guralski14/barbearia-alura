@@ -1,7 +1,12 @@
 body{
     text-align:center;
+    background-color: aliceblue #cccccc;
 }
 
 em,strong{
     color:cyan ;
+}
+
+.banner {
+    width:100% ;
 }
